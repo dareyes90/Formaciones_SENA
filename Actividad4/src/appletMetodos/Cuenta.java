@@ -1,4 +1,4 @@
-package AppletMetodos;
+package appletMetodos;
 
 public class Cuenta {
 

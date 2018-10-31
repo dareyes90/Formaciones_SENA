@@ -1,4 +1,4 @@
-package AppletMetodos;
+package appletMetodos;
 import java.applet.Applet;
 import java.awt.Button;
 import java.awt.GridLayout;

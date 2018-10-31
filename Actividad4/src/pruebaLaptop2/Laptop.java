@@ -1,6 +1,6 @@
-package PruebaLaptop2;
+package pruebaLaptop2;
 
-import AppletMetodos.Cuenta;
+import appletMetodos.Cuenta;
 
 public class Laptop {
 
